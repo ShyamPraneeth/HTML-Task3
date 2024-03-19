@@ -1,0 +1,306 @@
+.container{
+    font-family: Open Sans;
+    background-color: #164073;
+    width:886px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+img{
+    display: block;
+   margin-left: auto;
+   margin-right:auto;
+    padding: 40px;
+}
+
+ h1{
+    color:#f2f2f2;
+    font-weight: 600;
+    text-align: center;
+    margin-top: -33px;
+}
+h3{
+    font-weight: 400;
+}
+
+label{
+    color: #8f9bb3;
+    font-weight: 100;
+    font-size: small;
+}
+input{
+    background-color:#8f9bb3;
+}
+
+.input-box1{
+    margin-top: 100px;
+  margin-left: 80px;
+}
+
+.input-box1 input{
+    border: none;
+    width:70%;
+    border-collapse: collapse;
+    height: 30px;
+    margin-top: -3px;
+    border-radius: 4px;
+}
+
+.input-box1 h3{
+    color: white;
+    line-height: 1px;
+}
+
+.input-box2{
+    margin-left: 80px;
+    margin-top: 60px;
+}
+
+.input-box2 h3{
+    color: white;
+    line-height: 1px;
+}
+
+.input-box2 input{
+    width:70%;
+    background-color: #f2f2f2;
+    border: none;
+    height: 30px;
+    margin-top: -3px;
+    border-radius: 4px;
+    background-color: #f1f1f1;
+}
+label{
+    color: #f2f2f2;
+}
+
+/* .input-box3{
+    margin-top: 300px;
+    display: flex;
+    justify-content: space-between;
+} */
+
+.input-box3{
+    margin-left: 80px;
+    margin-top: 12px;
+}
+
+.input-box3 input{
+    border: none;
+    margin-top: 10px;
+    width: 70%;
+    height: 30px;
+    border-radius: 4px;
+    background-color: #f2f2f2;
+
+}
+
+.input-box4{
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 80px;
+    margin-top: 12px;
+    column-gap: 104px;
+}
+.input-box4 input{
+    padding-left: 22px;
+    height:30px;
+    border-radius: 4px;
+    border: none;
+    width:137%;
+}
+
+.input-box5 input{
+    padding-left: 22px;
+    height:30px;
+    border-radius: 4px;
+    border: none;
+    width:137%;
+}
+.input-box5{
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 80px;
+    margin-top: 12px;
+    column-gap: 104px;
+}
+.input-box5 select{
+    width: 278px;
+    margin-top: 1px;
+}
+
+/* .input-box4 input{
+    padding-left: 22px;
+    height:30px;
+    border-radius: 4px;
+    border: none;
+    width:137%;
+} */
+
+/* 
+.inbox{
+    margin-left: 10px;
+} */
+
+/* .lable1{
+    display: flex;
+    justify-content: flex-start;
+    margin-left: 80px;
+} */
+
+/* .input-box5{
+    display: flex;
+    margin-left: 80px;
+    margin-top: 12px;
+}
+
+.input-box5 input{
+    border: none;
+    width:33.3333%;
+    padding-left: 10px;
+    margin-top: 10px;
+    height: 30px;
+    border-radius: 4px;
+    background-color: #f2f2f2;
+
+} */
+select{
+    border: none;
+    width: 35%;
+    padding-left: 100px;
+    margin-top: 10px;
+    height: 32px;
+    border-radius: 4px;
+    background-color: #f2f2f2;
+}
+
+.slide h3{
+    color:white;
+    margin-top: 40px;
+    padding-left: 80px;
+}
+
+
+.slide input{
+    margin-left: 80px;
+    width:65%;
+    height: 30px;
+}
+
+
+.radio{
+    margin-left: 80px;
+    color: white;
+}
+
+.radio label{
+    font-size:medium;
+}
+.radio h3{
+    margin-top: 32px;
+}
+.radio input{
+    margin-top:0px;
+}
+
+.check{
+    margin-top: 50px;
+    margin-left: 80px;
+    padding-top: 10px;
+    color: white;
+}
+
+.check label{
+    font-size:medium;
+}
+.comment{
+    color:white;
+    margin-top: 60px;
+    width:70%;
+    margin-left: 80px;
+}
+
+.comment textarea{
+    width:100%;
+    height:60px;
+    color: #f2f2f2;
+    border:none;
+    border-radius: 4px;
+}
+
+.center {
+    margin-top: 70px;
+    text-align: center;
+}
+
+.center button{
+    margin-bottom: 90px;
+    padding: 10px;
+    width:10%;
+    background-color: orange;
+    border: none;
+    border-radius: 40px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* *{
+    font-family: ;
+}
+
+
+
+#main{
+    background-color: #164073;
+    margin: auto;
+}
+h1{
+    text-align: center;
+    color: white;
+}
+
+img{
+   display: block;
+   border-radius: 50%;
+   margin-left: auto;
+   margin-right: auto;
+   padding: 40px;
+   
+}
+
+
+.control{
+    padding-left: 100px;
+    color: white;
+}
+label{
+    font-size:small;
+}
+.control{
+    padding-bottom:20px
+}
+
+input{
+    width:80%;
+    height: 30px;
+}
+
+.two-col{
+
+} */

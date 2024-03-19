@@ -2,3 +2,6 @@
     display: flex;
     flex-wrap: no-wrap;
 }
+body{
+background-color: green;
+}
